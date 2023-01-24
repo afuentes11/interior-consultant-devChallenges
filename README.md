@@ -37,7 +37,7 @@
 ## Overview
 
 <div align="center">
-   <img src="https://github.com/afuentes11/interior-consultant-devChallenges/blob/master/img/desktop%20screen.png" alt="css3" width="68%" />
+   <img src="https://github.com/afuentes11/interior-consultant-devChallenges/blob/master/img/desktop%20screen.png" alt="css3" width="70%" />
    <img src="https://github.com/afuentes11/interior-consultant-devChallenges/blob/master/img/mobile%20screen.gif" alt="css3" width="27%" />
 </div>
 
