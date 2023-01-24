@@ -36,7 +36,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+<div align="center">
+   <img src="https://github.com/afuentes11/interior-consultant-devChallenges/blob/master/img/desktop%20screen.png" alt="css3" width="68%" />
+   <img src="https://github.com/afuentes11/interior-consultant-devChallenges/blob/master/img/mobile%20screen.gif" alt="css3" width="27%" />
+</div>
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
